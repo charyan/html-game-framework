@@ -1,4 +1,8 @@
 # html-game-framework: Build a story based html game
+## Screenshots
+### A game made with html-game-framework
+![html-game-framework screenshot](https://github.com/charyan/html-game-framework/raw/master/hgf-ex.png)
+### Creation of a game with the hgf-designer
 ![html-game-framework screenshot](https://github.com/charyan/html-game-framework/raw/master/hgf.png)
 
 ## Build instructions
@@ -17,7 +21,8 @@ Open `hgf-designer/index.hmtl` in a web browser. Create your game. The first sce
 ### Build the game
 Create the game based on your game.json file created above.
 ```bash
-hgf-maker/target/release/hgf-maker SOURCE DEST # SOURCE being your game.json file and DEST the destination directory you want your game files in
+# SOURCE being your game.json file and DEST the destination directory you want your game files in
+hgf-maker/target/release/hgf-maker SOURCE DEST
 ```
 Copy you images in `DEST/img`.
 Copy the CSS stylesheet from `game/style.css` to `DEST`.
