@@ -1,5 +1,5 @@
 # html-game-framework: Build a story based html game
-![html-game-framework screenshot](https://github.com/charyan/rc/raw/master/hgf.png)
+![html-game-framework screenshot](https://github.com/charyan/html-game-framework/raw/master/hgf.png)
 
 ## Build instructions
 First you will need to [install Rust](https://www.rust-lang.org/tools/install)
