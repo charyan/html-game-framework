@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HGF-Designer</title>
+    <link rel="stylesheet" href="style.css"></head>
+</head>
+<body>
+
+    <div class="menu">
+        <h1>HGF Designer</h1>
+    
+        <button onclick="addScene();">
+            Add scene
+        </button><button onclick="download();">
+            Export to JSON
+        </button><button onclick="upload();">
+            Import JSON
+        </button>
+    </div>
+
+
+    <div id="baseScene" class="scene">
+        <h2></h2>
+
+        <h3>References:</h3>
+        <div class="references"></div>
+
+        <div class="formElement uid">
+            <label>uid</label>
+            <input type="text" name="uid" class="sceneUid" readonly>
+        </div>
+
+        <div class="formElement">
+            <label>Title</label>
+            <input type="text" name="title" class="sceneTitle" onchange="refresh()">
+        </div>
+        
+        <div class="formElement">
+            <label>Image</label>
+            <input type="text" name="img" class="sceneImg">
+        </div>
+
+        <div class="formElement">
+            <label>Text</label><br>
+            <textarea class="sceneText" name="text"></textarea>
+        </div>
+        
+    
+        <h3 style="display: inline">Actions</h3>
+        <button onclick="addAction(this);">
+            Add action
+        </button>    
+        
+        <div class="actionList">
+            <div class="action">
+                <div class="formElement">
+                    <a href="" class="actionLink"><label class="formElement">Go to</label></a>
+                    <!-- <input type="text" name="uid" class="actionUid"> -->
+                    <select name="uid" class="actionUid" onchange="refresh()"></select>
+                </div>
+    
+                <div class="formElement">
+                    <label class="formElement">Text</label>
+                    <input type="text" name="text" class="actionText">
+                </div>
+
+
+                <button onclick="rmAction(this.parentElement);">
+                    Remove action
+                </button>
+            </div>
+        </div>
+        
+
+        <button onclick="rmScene(this.parentElement);">
+            Remove scene
+        </button>
+    </div>
+
+
+    <div id="sceneList"></div>
+    
+
+    <iframe id="if" style="display:none;"></iframe>
+    
+    <script src="script.js"></script>
+</body>
+</html>

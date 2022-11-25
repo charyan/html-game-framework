@@ -1,0 +1,5 @@
+hgf-maker/target/
+game/*.html
+game/img/
+*.json
+lorem.html
