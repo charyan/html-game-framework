@@ -3,6 +3,7 @@
 ### A game made with html-game-framework
 ![html-game-framework screenshot](https://github.com/charyan/html-game-framework/raw/master/hgf-ex.png)
 ### Creation of a game with the hgf-designer
+![Try it live](https://charyan.github.io/html-game-framework/hgf-designer/)
 ![html-game-framework screenshot](https://github.com/charyan/html-game-framework/raw/master/hgf.png)
 
 ## Build instructions
