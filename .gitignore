@@ -1,5 +1,5 @@
 hgf-maker/target/
 game/*.html
 game/img/
-*.json
+./*.json
 lorem.html
