@@ -1,6 +1,7 @@
 # html-game-framework: Build a story based html game
 ## Screenshots
 ### A game made with html-game-framework
+[Try a game](https://charyan.github.io/html-game-framework/demo/)
 ![html-game-framework screenshot](https://github.com/charyan/html-game-framework/raw/master/hgf-ex.png)
 ### Creation of a game with the hgf-designer
 [Try it live](https://charyan.github.io/html-game-framework/hgf-designer/)
