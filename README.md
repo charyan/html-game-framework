@@ -2,6 +2,7 @@
 ## Screenshots
 ### A game made with html-game-framework
 [Try a game](https://charyan.github.io/html-game-framework/demo/)
+[Try another game (game.json generated with ChatGPT and images with Dall-e)](https://charyan.github.io/html-game-framework/demo_chatgpt_dalle/)
 ![html-game-framework screenshot](https://github.com/charyan/html-game-framework/raw/master/hgf-ex.png)
 ### Creation of a game with the hgf-designer
 [Try it live](https://charyan.github.io/html-game-framework/hgf-designer/)
