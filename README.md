@@ -3,9 +3,11 @@
 ### Games made with html-game-framework
 [Game made by a human](https://charyan.github.io/html-game-framework/demo/)  
   
-[Beach: game made by ChatGPT and Dalle (game.json generated with ChatGPT and images with Dall-e)](https://charyan.github.io/html-game-framework/demo_chatgpt_dalle/)  
+[Beach: game made by ChatGPT and Dalle (game.json generated with ChatGPT and images with Dall-e)](https://charyan.github.io/html-game-framework/demo_chatgpt_dalle_beach/)  
   
-[Cyberpunk city: game made by ChatGPT and Dalle (game.json generated with ChatGPT and images with Dall-e)](https://charyan.github.io/html-game-framework/demo_chatgpt_dalle_2/)  
+[Cyberpunk city: game made by ChatGPT and Dalle (game.json generated with ChatGPT and images with Dall-e)](https://charyan.github.io/html-game-framework/demo_chatgpt_dalle_cyberpunk/)  
+  
+[Star Wars: game made by ChatGPT and Dalle (game.json generated with ChatGPT and images with Dall-e)](https://charyan.github.io/html-game-framework/demo_chatgpt_dalle_starwars/)  
   
 ![html-game-framework screenshot](https://github.com/charyan/html-game-framework/raw/master/hgf-ex.png)
 ### Creation of a game with the hgf-designer
