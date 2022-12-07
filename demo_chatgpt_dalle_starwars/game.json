@@ -1,0 +1,190 @@
+[
+    {
+        "uid": "1f63",
+        "title": "Tatooine",
+        "img": "tatooine.png",
+        "text": "You find yourself on the sandy planet of Tatooine. The hot sun beats down on you, and you can hear the sounds of the local creatures in the distance. What do you do ?",
+        "actions": [
+            {
+                "uid": "c1af",
+                "text": "Explore the desert"
+            },
+            {
+                "uid": "d9fa",
+                "text": "Enter the nearest settlement"
+            },
+            {
+                "uid": "e4b9",
+                "text": "Contact the Rebel Alliance"
+            }
+        ]
+    },
+    {
+        "uid": "c1af",
+        "title": "Desert",
+        "img": "desert.png",
+        "text": "You venture out into the desert and begin to explore. The landscape is harsh and unforgiving, but you are determined to survive. What do you do ?",
+        "actions": [
+            {
+                "uid": "f5c6",
+                "text": "Search for water"
+            },
+            {
+                "uid": "b2e8",
+                "text": "Defend yourself against local creatures"
+            },
+            {
+                "uid": "1f63",
+                "text": "Return to the settlement"
+            }
+        ]
+    },
+    {
+        "uid": "f5c6",
+        "title": "Water",
+        "img": "water.png",
+        "text": "You search the desert for water and eventually come across a small oasis. You fill up your canteen and take a much-needed drink. You feel refreshed and ready to continue your journey.",
+        "actions": [
+            {
+                "uid": "c1af",
+                "text": "Explore the desert more"
+            }
+        ]
+    },
+    {
+        "uid": "b2e8",
+        "title": "Creatures",
+        "img": "creatures.png",
+        "text": "You come across a pack of wild creatures and must defend yourself. You use your weapons and training to fight them off, and you emerge victorious. You continue on your journey, feeling stronger and more confident.",
+        "actions": [
+            {
+                "uid": "c1af",
+                "text": "Explore the desert more"
+            }
+        ]
+    },
+    {
+        "uid": "d9fa",
+        "title": "Settlement",
+        "img": "settlement.png",
+        "text": "You enter the nearest settlement and find yourself in a bustling marketplace. There are all sorts of people and creatures here, and you can hear the sounds of trade and commerce all around you. What do you do ?",
+        "actions": [
+            {
+                "uid": "g7d2",
+                "text": "Buy supplies"
+            },
+            {
+                "uid": "h1e3",
+                "text": "Seek out a pilot"
+            },
+            {
+                "uid": "1f63",
+                "text": "Leave the settlement"
+            }
+        ]
+    },
+    {
+        "uid": "g7d2",
+        "title": "Supplies",
+        "img": "supplies.png",
+        "text": "You buy the supplies you need and continue on your journey. You are well-equipped and ready for whatever challenges come your way.",
+        "actions": [
+            {
+                "uid": "d9fa",
+                "text": "Explore the settlement more"
+            },
+            {
+                "uid": "i2f7",
+                "text": "Travel to another planet"
+            }
+        ]
+    },
+    {
+        "uid": "h1e3",
+        "title": "Pilot",
+        "img": "pilot.png",
+        "text": "You seek out a pilot and find one who is willing to take you to your destination. You pay the agreed-upon fee and board their ship. You are excited for the adventure ahead.",
+        "actions": [
+            {
+                "uid": "d9fa",
+                "text": "Explore the settlement more"
+            },
+            {
+                "uid": "i2f7",
+                "text": "Travel to another planet"
+            }
+        ]
+    },
+    {
+        "uid": "e4b9",
+        "title": "Rebel Alliance",
+        "img": "rebels.png",
+        "text": "You contact the Rebel Alliance and are put in touch with a local cell. They are happy to assist you and provide you with the resources you need. You are grateful for their help and ready to continue your journey.",
+        "actions": [
+            {
+                "uid": "1f63",
+                "text": "Return to Tatooine"
+            },
+            {
+                "uid": "i2f7",
+                "text": "Travel to another planet"
+            }
+        ]
+    },
+    {
+        "uid": "i2f7",
+        "title": "Other Planet",
+        "img": "planet.png",
+        "text": "You travel to another planet and find yourself in a completely different environment. The planet is filled with new sights and sounds, and you are excited to explore. What do you do ?",
+        "actions": [
+            {
+                "uid": "j3g8",
+                "text": "Explore the planet's surface"
+            },
+            {
+                "uid": "k4h9",
+                "text": "Contact the local authorities"
+            },
+            {
+                "uid": "l5i0",
+                "text": "Seek out a local cantina"
+            }
+        ]
+    },
+    {
+        "uid": "j3g8",
+        "title": "Surface",
+        "img": "surface.png",
+        "text": "You explore the planet's surface and are amazed by the beauty and diversity of the local flora and fauna. You encounter all sorts of interesting creatures and landscapes, and you feel like you are truly on the edge of the galaxy.",
+        "actions": [
+            {
+                "uid": "i2f7",
+                "text": "Explore the planet more"
+            }
+        ]
+    },
+    {
+        "uid": "k4h9",
+        "title": "Authorities",
+        "img": "authorities.png",
+        "text": "You contact the local authorities and are greeted by friendly, helpful officials. They provide you with information and assistance, and you feel more at home on this strange new planet.",
+        "actions": [
+            {
+                "uid": "i2f7",
+                "text": "Explore the planet more"
+            }
+        ]
+    },
+    {
+        "uid": "l5i0",
+        "title": "Cantina",
+        "img": "cantina.png",
+        "text": "You seek out a local cantina and find yourself in a bustling, lively establishment. You order your favorite drink and strike up a conversation with the other patrons. You learn a lot about the planet and its inhabitants, and you feel more at home in this strange, far-off corner of the galaxy.",
+        "actions": [
+            {
+                "uid": "i2f7",
+                "text": "Explore the planet more"
+            }
+        ]
+    }
+]

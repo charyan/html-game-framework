@@ -1,0 +1,154 @@
+[
+    {
+        "uid": "1f63",
+        "title": "Start",
+        "img": "start.png",
+        "text": "You're standing in the middle of a bustling city. The neon lights of the skyscrapers shine brightly, and the sound of cars and people fills the air. What do you do ?",
+        "actions": [
+            {
+                "uid": "c1af",
+                "text": "Explore the city"
+            },
+            {
+                "uid": "d9fa",
+                "text": "Enter a nearby building"
+            },
+            {
+                "uid": "e4b9",
+                "text": "Talk to a passerby"
+            }
+        ]
+    },
+    {
+        "uid": "c1af",
+        "title": "City",
+        "img": "city.png",
+        "text": "You walk through the city, taking in the sights and sounds. The city is filled with all sorts of people and cultures, and there are countless places to explore. What do you do ?",
+        "actions": [
+            {
+                "uid": "f5c6",
+                "text": "Visit a shop"
+            },
+            {
+                "uid": "b2e8",
+                "text": "Enter a bar"
+            },
+            {
+                "uid": "1f63",
+                "text": "Return to the street"
+            }
+        ]
+    },
+    {
+        "uid": "f5c6",
+        "title": "Shop",
+        "img": "shop.png",
+        "text": "You enter a shop and find a wide variety of items for sale. There are clothes, gadgets, and all sorts of other futuristic items. What do you buy ?",
+        "actions": [
+            {
+                "uid": "g7d2",
+                "text": "Buy a new pair of cybernetic implants"
+            },
+            {
+                "uid": "h1e3",
+                "text": "Buy a futuristic weapon"
+            },
+            {
+                "uid": "c1af",
+                "text": "Leave the shop without buying anything"
+            }
+        ]
+    },
+    {
+        "uid": "g7d2",
+        "title": "",
+        "img": "implants.png",
+        "text": "You buy a new pair of cybernetic implants and have them installed. You feel a surge of power as your new implants activate, and you can't wait to see what they can do.",
+        "actions": [
+            {
+                "uid": "c1af",
+                "text": "Leave the shop"
+            }
+        ]
+    },
+    {
+        "uid": "h1e3",
+        "title": "",
+        "img": "weapon.png",
+        "text": "You buy a futuristic weapon and feel its weight in your hands. You know you can protect yourself with this powerful tool, and you feel more confident as you continue exploring the city.",
+        "actions": [
+            {
+                "uid": "c1af",
+                "text": "Leave the shop"
+            }
+        ]
+    },
+    {
+        "uid": "b2e8",
+        "title": "Bar",
+        "img": "bar.png",
+        "text": "You enter a bar and take a seat at the counter. The bartender greets you and asks what you would like to drink. You order your favorite cyberpunk cocktail and strike up a conversation with the other patrons. You learn a lot about the city and its inhabitants, and you feel more at home in this strange, futuristic world.",
+        "actions": [
+            {
+                "uid": "c1af",
+                "text": "Explore the city more"
+            }
+        ]
+    },
+    {
+        "uid": "d9fa",
+        "title": "Building",
+        "img": "building.png",
+        "text": "You enter a nearby building and find yourself in a large, open space. There are people working at various desks and terminals, and you can see all sorts of futuristic technology. What do you do ?",
+        "actions": [
+            {
+                "uid": "i2f7",
+                "text": "Approach a worker and ask for information"
+            },
+            {
+                "uid": "j3g8",
+                "text": "Examine the technology more closely"
+            },
+            {
+                "uid": "1f63",
+                "text": "Leave the building"
+            }
+        ]
+    },
+    {
+        "uid": "i2f7",
+        "title": "Worker",
+        "img": "worker.png",
+        "text": "You approach a worker and ask them about the technology in the building. They are happy to explain it to you and show you some of the amazing things they are working on. You thank them for their time and continue exploring.",
+        "actions": [
+            {
+                "uid": "d9fa",
+                "text": "Explore the building more"
+            }
+        ]
+    },
+    {
+        "uid": "j3g8",
+        "title": "Technology",
+        "img": "technology.png",
+        "text": "You examine the technology more closely and are amazed by the advanced level of engineering and design. You see all sorts of gadgets, machines, and devices that you have never seen before. You wish you could learn more about how they work.",
+        "actions": [
+            {
+                "uid": "d9fa",
+                "text": "Explore the building more"
+            }
+        ]
+    },
+    {
+        "uid": "e4b9",
+        "title": "Passerby",
+        "img": "passerby.png",
+        "text": "You approach a passerby and strike up a conversation. They are friendly and happy to chat with you. You learn a lot about the city and its inhabitants, and you feel more at home in this strange, futuristic world.",
+        "actions": [
+            {
+                "uid": "1f63",
+                "text": "Return to the street"
+            }
+        ]
+    }
+]
