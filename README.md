@@ -5,7 +5,7 @@
   
 [Beach: game made by ChatGPT and Dalle (game.json generated with ChatGPT and images with Dall-e)](https://charyan.github.io/html-game-framework/demo_chatgpt_dalle/)  
   
-[Cyberpunk city: game made by ChatGPT and Dalle (game.json generated with ChatGPT and images with Dall-e)](https://charyan.github.io/html-game-framework/demo_chatgpt_dalle/)  
+[Cyberpunk city: game made by ChatGPT and Dalle (game.json generated with ChatGPT and images with Dall-e)](https://charyan.github.io/html-game-framework/demo_chatgpt_dalle_2/)  
   
 ![html-game-framework screenshot](https://github.com/charyan/html-game-framework/raw/master/hgf-ex.png)
 ### Creation of a game with the hgf-designer
