@@ -33,7 +33,7 @@ Create the game based on your game.json file created above.
 # SOURCE being your game.json file and DEST the destination directory you want your game files in
 html-game-framework/hgf-maker/target/release/hgf-maker SOURCE DEST
 ```
-Copy you images in `DEST/img`.
+Copy your images in `DEST/img`.
 Copy the CSS stylesheet from `html-game-framework/game/style.css` to `DEST`.
 
 ### Launching the game
