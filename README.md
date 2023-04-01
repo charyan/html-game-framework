@@ -25,7 +25,7 @@ cd ..
 
 ## How to use the html-game-framework
 ### Create your game with the hgf-designer
-Open `html-game-framework/hgf-designer/index.hmtl` in a web browser. Create your game. The first scene in the list will be the start of your game. Once you're done, click on `Export to JSON`.
+Open `html-game-framework/hgf-designer/index.html` in a web browser. Create your game. The first scene in the list will be the start of your game. Once you're done, click on `Export to JSON`.
 
 ### Build the game
 Create the game based on your game.json file created above.
